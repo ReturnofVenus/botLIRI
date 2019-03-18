@@ -1,0 +1,62 @@
+18:59:45.726 INFO  json error: Error: Request failed with status code 500 
+22:34:46.798 INFO  Operation: node liri.js concert-this kali uchis 
+22:34:46.798 INFO  Venue Name: The Anthem 
+22:34:46.798 INFO  Location: Washington , DC 
+22:34:46.808 INFO  Date: April 28th 2019, 07:00:43 pm 
+22:34:46.808 INFO  ============ 
+22:34:46.809 INFO  Operation: node liri.js concert-this kali uchis 
+22:34:46.809 INFO  Venue Name: The Fillmore 
+22:34:46.809 INFO  Location: Philadelphia , PA 
+22:34:46.809 INFO  Date: April 30th 2019, 07:00:24 pm 
+22:34:46.809 INFO  ============ 
+22:34:46.809 INFO  Operation: node liri.js concert-this kali uchis 
+22:34:46.809 INFO  Venue Name: Agganis Arena 
+22:34:46.809 INFO  Location: Boston , MA 
+22:34:46.809 INFO  Date: May 1st 2019, 07:00:36 pm 
+22:34:46.809 INFO  ============ 
+22:36:32.494 INFO  Operation: node liri.js concert-this kali uchis 
+22:36:32.494 INFO  Venue Name: The Anthem 
+22:36:32.494 INFO  Location: Washington , DC 
+22:36:32.503 INFO  Date: April 28th 2019, 07:00:43 pm 
+22:36:32.504 INFO  ============ 
+22:36:32.504 INFO  Operation: node liri.js concert-this kali uchis 
+22:36:32.504 INFO  Venue Name: The Fillmore 
+22:36:32.504 INFO  Location: Philadelphia , PA 
+22:36:32.504 INFO  Date: April 30th 2019, 07:00:24 pm 
+22:36:32.504 INFO  ============ 
+22:36:32.504 INFO  Operation: node liri.js concert-this kali uchis 
+22:36:32.504 INFO  Venue Name: Agganis Arena 
+22:36:32.504 INFO  Location: Boston , MA 
+22:36:32.504 INFO  Date: May 1st 2019, 07:00:36 pm 
+22:36:32.504 INFO  ============ 
+22:37:16.841 INFO  Cannot read property 'album' of undefined
+{}
+TypeError: Cannot read property 'album' of undefined
+    at /Users/arianaromero/Desktop/botLIRI/liri.js:145:53
+    at tryCatcher (/Users/arianaromero/Desktop/botLIRI/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/Users/arianaromero/Desktop/botLIRI/node_modules/bluebird/js/release/promise.js:512:31)
+    at Promise._settlePromise (/Users/arianaromero/Desktop/botLIRI/node_modules/bluebird/js/release/promise.js:569:18)
+    at Promise._settlePromise0 (/Users/arianaromero/Desktop/botLIRI/node_modules/bluebird/js/release/promise.js:614:10)
+    at Promise._settlePromises (/Users/arianaromero/Desktop/botLIRI/node_modules/bluebird/js/release/promise.js:694:18)
+    at _drainQueueStep (/Users/arianaromero/Desktop/botLIRI/node_modules/bluebird/js/release/async.js:138:12)
+    at _drainQueue (/Users/arianaromero/Desktop/botLIRI/node_modules/bluebird/js/release/async.js:131:9)
+    at Async._drainQueues (/Users/arianaromero/Desktop/botLIRI/node_modules/bluebird/js/release/async.js:147:5)
+    at Immediate.Async.drainQueues [as _onImmediate] (/Users/arianaromero/Desktop/botLIRI/node_modules/bluebird/js/release/async.js:17:14)
+    at runCallback (timers.js:705:18)
+    at tryOnImmediate (timers.js:676:5)
+    at processImmediate (timers.js:658:5) 
+22:41:27.179 INFO  Operation: node liri.js concert-this kali uchis 
+22:41:27.179 INFO  Venue Name: The Anthem 
+22:41:27.179 INFO  Location: Washington , DC 
+22:41:27.201 INFO  Date: April 28th 2019, 07:00:43 pm 
+22:41:27.201 INFO  ============ 
+22:41:27.201 INFO  Operation: node liri.js concert-this kali uchis 
+22:41:27.201 INFO  Venue Name: The Fillmore 
+22:41:27.201 INFO  Location: Philadelphia , PA 
+22:41:27.202 INFO  Date: April 30th 2019, 07:00:24 pm 
+22:41:27.202 INFO  ============ 
+22:41:27.202 INFO  Operation: node liri.js concert-this kali uchis 
+22:41:27.202 INFO  Venue Name: Agganis Arena 
+22:41:27.202 INFO  Location: Boston , MA 
+22:41:27.202 INFO  Date: May 1st 2019, 07:00:36 pm 
+22:41:27.202 INFO  ============ 
